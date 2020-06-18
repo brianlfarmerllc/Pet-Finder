@@ -2,3 +2,7 @@ models/index.js
 node_modules
 models/post.js
 models/user.js
+dist/js/login.js
+dist/js/members.js
+dist/js/petPost.js
+dist/js/signup.js
