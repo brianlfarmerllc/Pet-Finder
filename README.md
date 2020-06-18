@@ -3,7 +3,7 @@
 
 [![GitHub Image](https://contributors-img.web.app/image?repo=brianlfarmerllc/Good_README_Generator)](https://github.com/brianlfarmerllc/Pet-Finder)
 
-[![Heroku URL](https://img.shields.io/badge/Heroku-URL-purple.svg)](https://dashboard.heroku.com/apps/pet-finder-brianlfarmerllc)
+[![Heroku URL](https://img.shields.io/badge/Heroku-URL-purple.svg)](https://pet-finder-brianlfarmerllc.herokuapp.com/)
 
 ## Description
 
